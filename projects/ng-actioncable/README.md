@@ -1,3 +1,5 @@
+# NgActioncable
+
 Simple and flexible integration for ActionCable and Angular applications.
 Fully supports angular universal and es6.
 
