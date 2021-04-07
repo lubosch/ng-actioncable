@@ -1,6 +1,6 @@
 {
   "name": "ng-actioncable",
-  "version": "0.10.7",
+  "version": "0.11.0",
   "description": "Simple and flexible integration for ActionCable and Angular applications (Universal friendly), pure typescript",
   "repository": "lubosch/ng-actioncable",
   "author": {
@@ -14,6 +14,6 @@
     "rxjs": ">6.0.0 <12.0.0"
   },
   "dependencies": {
-    "tslib": "^1.10.0"
+    "tslib": "^2.0.0"
   }
 }
